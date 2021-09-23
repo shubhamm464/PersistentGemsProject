@@ -1,2 +1,4 @@
 Welcome to git
 updated files are not needed to added to staging area
+
+changed to bug1
