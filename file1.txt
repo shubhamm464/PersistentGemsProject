@@ -1,4 +1,4 @@
 Welcome to git
 updated files are not needed to added to staging area
 
-changed to bug1
+changed to bug1 .. update after adding bug2 and implementing with conflict rt now we r in master
